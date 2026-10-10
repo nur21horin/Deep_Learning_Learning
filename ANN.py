@@ -26,6 +26,7 @@ plt.text(1.3,0.55,"w1=0.4")
 plt.text(1.3,-0.55,"w2=0.7")
 plt.text(4.4,0.15,"w=0.9")
 
+
 # Bias labels
 plt.text(3,-0.7,"b=0.2")
 plt.text(6,-0.7,"b=0.1")
