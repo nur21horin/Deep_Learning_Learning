@@ -2,9 +2,20 @@
 
 A beginner-friendly deep learning practice repository focused on understanding the foundations of neural networks, perceptrons, forward propagation, and backpropagation.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&logo=tensorflow)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=for-the-badge&logo=tensorflow)
+![License](https://img.shields.io/badge/License-Learning%20Only-9C27B0?style=for-the-badge)
+
+</div>
+
+## About the Author
+
+This project is a personal learning repository created to explore the fundamentals of deep learning through practical examples and visual explanations.
+
+It is intended for students and beginners who want to understand how neural networks work from the ground up using hands-on notebooks and simple Python implementations.
 
 ## Overview
 
